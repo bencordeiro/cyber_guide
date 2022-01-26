@@ -4,6 +4,7 @@
 # use bash template_checklist.sh
 # Also can change the file as executable with chmod +x (script)
 # then ./script.sh to run
+# Feel free to change question(9) and the in statement to your liking
 YESNO=y
 	read -p "Execute my Checklist? (Y/n)" var_yesno  # User_input & Echo question
 	[ -n "$var_yesno" ] && YESNO=$var_yesno
