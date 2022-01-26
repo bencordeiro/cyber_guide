@@ -14,3 +14,6 @@ chmod +x ./script.sh   # make executable
 #optional
 
 sudo ./script.sh ## run script as super-user
+
+LEARN bash scripting (useful websites)
+https://devhints.io/bash - Bash cheat-sheet
