@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+### Check if file exists && perms ### 
+ls -l /etc/shadow
+ls -l /etc/passwd
+ls -l  /etc/apt/sources.list
+ls -l /etc/sudoers
