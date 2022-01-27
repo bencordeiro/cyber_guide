@@ -1,0 +1,9 @@
+#!/bin/bash
+
+######## Packs that may be dangerous #####
+
+    echo 'Searching for possible dangerous packages'
+echo
+    sudo dpkg-query --list | grep -e "hacking"
+# [Can extend this my adding -e for example "-e "keyword" -e "keyword"]
+# find using grep!
