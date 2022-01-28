@@ -1,7 +1,7 @@
 # cyber_guide
 Guide for future CyberPatriot teams attacking linux images.
 
-#Install & Run Guide
+# Install & Run Guide
 
 sudo apt-get install git
 
