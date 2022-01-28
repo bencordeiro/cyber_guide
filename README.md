@@ -3,11 +3,11 @@ Guide for future CyberPatriot teams attacking linux images.
 
 # Install & Run Guide
 
-sudo apt-get install git
-git clone https://github.com/bencordeiro/cyber_guide.git
-cd cyber_guide/
-chmod +x ./script.sh   # make executable
-./script.sh ## Run script
+sudo apt-get install git  
+git clone https://github.com/bencordeiro/cyber_guide.git  
+cd cyber_guide/  
+chmod +x ./script.sh   # make executable  
+./script.sh ## Run script  
 
 #optional
 
