@@ -9,10 +9,8 @@ cd cyber_guide/
 chmod +x ./script.sh   # make executable  
 ./script.sh ## Run script  
 
-#optional
-
-sudo ./script.sh ## run script as super-user
-
+#optional  
+sudo ./script.sh ## run script as super-user  
 
 
 # LEARN bash scripting (useful websites)
